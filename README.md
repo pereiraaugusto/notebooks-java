@@ -1,4 +1,4 @@
 # teste-notebooks
 Aprendendo a usar notebooks com Java
 
-Fill in the fields to see the markdown badge snippet.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pereiraaugusto/teste-notebooks/master?filepath=JavaBasicoTreinamento.ipynb)
